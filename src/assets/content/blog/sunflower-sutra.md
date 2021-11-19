@@ -1,5 +1,5 @@
 ---
-title: Sunflower Sutra
+title: Sunflower Sutra1
 author: Allen Ginsberg
 date: 2019-07-31T07:00:00Z
 hero_image: "/src/assets/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
